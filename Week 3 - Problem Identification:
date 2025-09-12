@@ -1,0 +1,26 @@
+Week 3 - Problem Identification:
+
+Objective/ Problem Statment : The aim is to predict/identify which employee is expected to resign next.
+
+Here are the stages of identification:
+
+Stage 1 - Machine Learning 
+Stage 2 - Supervised Learning
+Stage 3 - Classification problem( Resign or NotResign)
+
+Name of the project : Employee Attrition rate
+Dataset should contain the following variables/Parameters:
+
+1.Date of Joining
+2.Desigination
+3.Date of Birth
+4.Education 
+5.Total Years of expereince
+6.Years of exp in the company
+7.Appraisals
+8.Salary
+9. Working Hours
+10.Work Shifts
+11. Work culture
+12.Stay or not(Output Variable)
+
